@@ -1,0 +1,13 @@
+{
+  "name": "json-server-boilerplate",
+  "version": "1.0.0",
+  "description": "JSON Server Boilerplate",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.12.0"
+  },
+  "author": "Giovanni Mansueto <topogigiovanni@gmail.com>"
+}
